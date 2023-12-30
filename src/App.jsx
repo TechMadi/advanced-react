@@ -1,6 +1,6 @@
 
 
-import Starter from './tutorial/01-useState/05-useState-gotcha.jsx'
+import Starter from './tutorial/02-useEffect/05-cleanup-function.jsx'
 
 function App() {
 
