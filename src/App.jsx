@@ -1,6 +1,6 @@
-import { useState } from 'react'
 
-import Starter from './tutorial/01-useState/02-useState-basics.jsx'
+
+import Starter from './tutorial/01-useState/05-useState-gotcha.jsx'
 
 function App() {
 
